@@ -1,0 +1,1 @@
+main template mantığında panel için ayrı bir base alacak.

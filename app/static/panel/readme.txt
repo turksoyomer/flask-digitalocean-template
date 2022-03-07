@@ -1,0 +1,1 @@
+içerisinde panel blueprintine ait css, image, js, assets gibi klasörler bulunduracak.
